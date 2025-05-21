@@ -1,7 +1,3 @@
-/**
- * Firebase Serial Listener Extension
- */
-//% weight=100 color=#0fbc11 icon="\uf1eb"
 namespace firebaseSerial {
 
     let currentCommand: string = ""
